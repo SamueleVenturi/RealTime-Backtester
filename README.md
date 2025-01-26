@@ -8,7 +8,7 @@ A 100% home-made project to play with real-time market data and test strategies 
 
 ## What I used:  
 - **CCXT**: To connect to crypto exchanges.  
-- **Lightweight Charts**: For clean and lightweight charts.  
+- **Lightweight Charts**: For clean and lightweight charts. https://github.com/louisnw01/lightweight-charts-python  
 - **YFinance**: For hassle-free stock data.  
 
 A simple, no-frills project that gets the job done.  
